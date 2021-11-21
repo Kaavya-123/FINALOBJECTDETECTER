@@ -1,0 +1,23 @@
+body
+{
+background-size:cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,#found
+{
+    font-size: 18px;
+}
+
+canvas{
+    border: 2px solid white;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5x grey;
+    border-radius: 10px;
+}
